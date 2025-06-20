@@ -1,0 +1,6 @@
+# 鍵ファイルを除外
+*.key
+*.pem
+*.crt
+id_rsa
+id_rsa.*
